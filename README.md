@@ -1,6 +1,6 @@
 
 <h1>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,  I'm Brian Lee
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,  I'm Brian
 </h1>
 
 ## 🙋‍♂️ About Me
